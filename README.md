@@ -49,7 +49,7 @@ Getting Started
 Follow these steps to set up the AXIS Saral Portal locally:
 
 Clone the repository to your local machine:
-git clone https://github.com/nitish39/Capstone.git
+git clone https://github.com/nitish39/CapstoneAxisSaral.git
 
 Configure the database:
 
